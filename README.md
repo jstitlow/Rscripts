@@ -5,7 +5,7 @@ Scripts for basic statistical analysis
 
 ## How to use
 - install [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
-- setup github account with [public keys] (https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html)  
+- setup github account with [public keys](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html)  
 - clone the entire Rscripts repository to a local drive (or simply download all the files and save in a folder called Rscripts) 
   - open terminal (or command prompt) 
   - type the following commands into the terminal
