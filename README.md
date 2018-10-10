@@ -14,4 +14,7 @@ Scripts for basic statistical analysis
 - a jupyter lab web app should open in your browser
 - open the file called Basic_Stats_Package_R_teaching.ipynb
 - select a cell and press shift+enter to execute the code
-- replace data in the 
+- analyse your own data
+  - label your data columns X1, Y1, etc. as specified in one of the cells
+  - change "filename.csv" to "path/to/yourdata.csv"
+  - or replace data in filename.csv with your data and save 
