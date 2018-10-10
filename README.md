@@ -8,7 +8,7 @@ Scripts for basic statistical analysis
 - clone the entire Rscripts repository to a local drive (or simply download all the files and save in a folder called Rscripts) 
   - open terminal (or command prompt) 
   - type the following commands into the terminal
-  > git clone https://github.com/jstitlow/Rscripts  
+  > git clone https://github.com/jstitlow/Rscripts.git  
   > cd Rscripts  
   > jupyter lab
 - a jupyter lab web app should open in your browser
